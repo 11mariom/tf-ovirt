@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/11mariom/tf-ovirt/ovirt"
+	"github.com/11mariom/terraform-provider-ovirt/ovirt"
 )
 
 func main() {
